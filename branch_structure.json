@@ -1,0 +1,30 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/progress-bar-no-react-state",
+    "fix/add-use-debounce-tests",
+    "fix/app-hardening-pass",
+    "fix/transaction-history-table-mobile",
+    "fix/wallet-disconnect",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/progress-bar-no-react-state": "main",
+    "fix/add-use-debounce-tests": "main",
+    "fix/app-hardening-pass": "main",
+    "fix/transaction-history-table-mobile": "main",
+    "fix/wallet-disconnect": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/progress-bar-no-react-state",
+    "fix/add-use-debounce-tests",
+    "fix/app-hardening-pass",
+    "fix/transaction-history-table-mobile",
+    "fix/wallet-disconnect",
+    "origin"
+  ]
+}
